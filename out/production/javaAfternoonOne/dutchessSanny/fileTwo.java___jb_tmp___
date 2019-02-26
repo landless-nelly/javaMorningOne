@@ -1,0 +1,12 @@
+package dutchessSanny;
+
+public class fileTwo {
+    public static void main(String[] args) {
+        System.out.println("I am "+20+" years old");
+        String x = "Hello Westlife";
+        Integer y = 10;
+        Double z = 10.5;
+        Float w = 18.8f;
+        System.out.println(w);
+    }
+}
